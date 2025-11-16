@@ -5,7 +5,7 @@
 }
 
 body:has(.container) {
-  height: 30 vh;
+  height: 40 vh;
   font-family: "Inter", sans-serif;
 }
 
