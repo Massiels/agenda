@@ -618,7 +618,7 @@ body:has(.container) {
 .delete-btn {
   float: right;
   color: white;
-  margin-left: 0px;
+  margin-left: 100px;
 }
 
 .delete-btn:hover {
